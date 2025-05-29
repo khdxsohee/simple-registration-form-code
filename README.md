@@ -1,7 +1,7 @@
 # Simple-registration-form-code
 
 - Download or clone the repository
-- Run index.html file in your browser
+- Run simple-registration-form.html file in your browser
 - Hurray! Enjoy the simple registration login form built in html..
 
   ## 🚀 Live Demo
